@@ -1,11 +1,11 @@
 swagger: '2.0'
 securityDefinitions:
   a:
-    type: <a href="javascript&#58alert(document.domain)">JS - Numerical Entities</a><svg%20onload=alert%26%230000000040"1")>
+    type: oauth2
     authorizationUrl: javascript:alert(document.domain)//
 info:
   version: "0.0.1"
-  title: Example Title
+  title: xss
   description: Please Authorize!
 paths:
   /:
